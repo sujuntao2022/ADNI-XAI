@@ -31,6 +31,12 @@
 
 - Use the 'conform.py' file provided in the compressed package to preprocess each '.nii' file. This will generate segmented '.nii' files ready for training.
 
+## Part 3: FastSurferCNN for whole brain segementation
+
+- Visit the github for building the environment  https://github.com/Deep-MI/FastSurfer/tree/stable
+- Follow their colab tutorial for the segementation. You could also do the job on colab. 
+https://github.com/Deep-MI/FastSurfer/blob/stable/Tutorial/Tutorial_FastSurferCNN_QuickSeg.ipynb
+
 ## Part 3: Model Training
 
 - Utilize the code provided in this GitHub link to train the model. Please make appropriate adjustments to accommodate the local storage method.
