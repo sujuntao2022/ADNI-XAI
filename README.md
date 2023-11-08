@@ -37,6 +37,6 @@
 - Follow their colab tutorial for the segementation. You could also do the job on colab. 
 https://github.com/Deep-MI/FastSurfer/blob/stable/Tutorial/Tutorial_FastSurferCNN_QuickSeg.ipynb
 
-## Part 3: Model Training
+## Part 4: Model Training
 
 - Utilize the code provided in this GitHub link to train the model. Please make appropriate adjustments to accommodate the local storage method.
