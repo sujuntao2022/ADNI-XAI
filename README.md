@@ -9,10 +9,10 @@
 ### Step 2: Filtering the Dataset
 - In the menu, select 'Advanced Search'.
 - Under 'Search Options – Image Types', select 'Original'.
-- For 'PROJECT/PHASE - PHASE', choose 'ADNI 1'.
+- For 'PROJECT/PHASE - PHASE', choose 'ADNI 3'.
 - Within 'SUBJECT-Research Group', select 'MCI', 'AD', 'CN'.
 - Under 'IMAGE-Modality', choose 'MRI'.
-- In the 'IMAGING PROTOCOL - Matrix Z', select 'Equals 160'.
+- In the 'IMAGING PROTOCOL - Matrix Z', select 'Equals 176'.
 - For 'IMAGING PROTOCOL - Acquisition Type', choose '3D'.
 - Choose 'T1' for 'IMAGING PROTOCOL - Weighting'.
 - Click 'Search'.
@@ -24,12 +24,12 @@
 
 #### Additional Step: Downloading Label Information
 - Click on 'csv' to download the corresponding label information.
-- Note: We need only the data described as 'MPRAGE'. Approximately half of the data does not fit this description, and currently, there is no refined method to select this subset of data more specifically.
+- Note: We need only the data described as 'Accelerated Sagittal MPRAGE'. 'Accelerated Sagittal MPRAGE_ND are not needed'
 - The data will now be saved locally on your computer.
 
 ## Part 2: Data Preprocessing
-
-- Use the 'conform.py' file provided in the compressed package to preprocess each '.nii' file. This will generate segmented '.nii' files ready for training.
+- Use the provided Preprocess.ipynb for this step
+- Download 'conform.py' file before running the previous code. Change the directory as needed.
 
 ## Part 3: FastSurferCNN for whole brain segementation
 
