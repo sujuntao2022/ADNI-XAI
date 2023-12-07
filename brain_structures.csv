@@ -1,0 +1,79 @@
+Subcortical Structures,Proposed (Subcortical),FS (Subcortical),Cortical/subcortical
+Cortical white matter (lh),1,2,subcortical
+Lateral Ventricle (lh),2,4,subcortical
+Inferior Lateral Ventricle (lh),3,5,subcortical
+Cerebellar White Matter (lh),4,7,subcortical
+Cerebellar Cortex (lh),5,8,subcortical
+Thalamus (lh),6,10,subcortical
+Caudate (lh),7,11,subcortical
+Putamen (lh),8,12,subcortical
+Pallidum (lh),9,13,subcortical
+3rd-Ventricle,10,14,subcortical
+4th-Ventricle,11,15,subcortical
+Brain Stem,12,16,subcortical
+Hippocampus (lh),13,17,subcortical
+Amygdala (lh),14,18,subcortical
+CSF,15,24,subcortical
+Accumbens (lh),16,26,subcortical
+Ventral DC (lh),17,28,subcortical
+Choroid Plexus (lh),18,31,subcortical
+Cortical white matter (rh),19,41,subcortical
+Lateral Ventricle (rh),20,43,subcortical
+Inferior Lateral Ventricle (rh),21,44,subcortical
+Cerebellar White Matter (rh),22,46,subcortical
+Cerebellar Cortex (rh),23,47,subcortical
+Thalamus (rh),24,49,subcortical
+Caudate (rh),25,50,subcortical
+Putamen (rh),26,51,subcortical
+Pallidum (rh),27,52,subcortical
+Hippocampus (rh),28,53,subcortical
+Amygdala (rh),29,54,subcortical
+Accumbens (rh),30,58,subcortical
+Ventral DC (rh),31,60,subcortical
+Choroid Plexus (rh),32,63,subcortical
+WM-hypointensities,33,77,subcortical
+caudalanteriorcingulate (lh),34,1002,cortical
+"caudalmiddlefrontal (lh, rh)",35,"1003, 2003",cortical
+cuneus (lh),36,1005,cortical
+"entorhinal (lh, rh)",37,"1006, 2006",cortical
+"fusiform (lh, rh)",38,"1007, 2007",cortical
+"inferiorparietal (lh, rh)",39,"1008, 2008",cortical
+"inferiortemporal (lh, rh)",40,"1009, 2009",cortical
+isthmuscingulate (lh),41,1010,cortical
+"lateraloccipital (lh, rh)",42,"1011, 2011",cortical
+lateralorbitofrontal (lh),43,1012,cortical
+lingual (lh),44,1013,cortical
+medialorbitofrontal (lh),45,1014,cortical
+"middletemporal (lh, rh)",46,"1015, 2015",cortical
+parahippocampal (lh),47,1016,cortical
+paracentral (lh),48,1017,cortical
+"parsopercularis (lh, rh)",49,"1018, 2018",cortical
+"parsorbitalis (lh, rh)",50,"1019, 2019",cortical
+"parstriangularis (lh, rh)",51,"1020, 2020",cortical
+pericalcarine (lh),52,1021,cortical
+postcentral (lh),53,1022,cortical
+posteriorcingulate (lh),54,1023,cortical
+precentral (lh),55,1024,cortical
+precuneus (lh),56,1025,cortical
+"rostralanteriorcingulate (lh, rh)",57,"1026, 2026",cortical
+"rostralmiddlefrontal (lh, rh)",58,"1027, 2027",cortical
+superiorfrontal (lh),59,1028,cortical
+"superiorparietal (lh, rh)",60,"1029, 2029",cortical
+"superiortemporal (lh, rh)",61,"1030, 2030",cortical
+"supramarginal (lh, rh)",62,"1031, 2031",cortical
+"transversetemporal (lh, rh)",63,"1034, 2034",cortical
+"insula (lh, rh)",64,"1035, 2035",cortical
+caudalanteriorcingulate (rh),65,2002,cortical
+cuneus (rh),66,2005,cortical
+isthmuscingulate (rh),67,2010,cortical
+lateralorbitofrontal (rh),68,2012,cortical
+lingual (rh),69,2013,cortical
+medialorbitofrontal (rh),70,2014,cortical
+parahippocampal (rh),71,2016,cortical
+paracentral (rh),72,2017,cortical
+pericalcarine (rh),73,2021,cortical
+postcentral (rh),74,2022,cortical
+posteriorcingulate (rh),75,2023,cortical
+precentral (rh),76,2024,cortical
+precuneus (rh),77,2025,cortical
+superiorfrontal (rh),78,2028,cortical
